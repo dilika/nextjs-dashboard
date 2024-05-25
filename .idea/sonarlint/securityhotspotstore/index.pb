@@ -1,8 +1,6 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
-<
-.env.example,d/4/d4dae00d11854b35292c2b8a30515a9a0aa2d871
 >
 next.config.js,8/1/811a6d5a2e04fadb44d8eec365f2fa8af5c4facf
 >
@@ -62,8 +60,6 @@ J
 app/lib/utils.ts,f/2/f2c22eb79e5a87d33cf853c905bf58474803af62
 ?
 app/ui/fonts.ts,4/d/4d98a726c7d3abda677a24d7f078a3c0e54081a0
-E
-app/dashboard/page.ts,1/2/1299bdfeb871fbd0b3002f6270fa941f39e5f597
 F
 app/dashboard/page.tsx,1/2/12fef110c4fa21b63f77b82c2a37396501d6880d
 P
@@ -72,9 +68,25 @@ O
 app/dashboard/invoices/page.tsx,f/4/f43c9f88875dfee131023f5f22487b7cc6d5dc35
 H
 app/dashboard/layout.tsx,4/6/46f42bfacf9d8009d79b34138a7d9e2ebbab68a3
-I
-app/dashboard/llayout.tsx,9/9/9948dd38eaac2b0a20a052dbfc0b906ca494b458
 ?
 scripts/seed.js,c/8/c8d02974cd7a0ed1a6791106a46e94ce13f4b221
 <
 package.json,7/0/7030d0b2f71b999ff89a343de08c414af32fc93a
+D
+app/ui/skeletons.tsx,9/8/989027212d7a0dbdf52ec898626c3a21d2488053
+H
+app/dashboard/loading.ts,0/3/03a0e0de8f29eac952ce3b2410aaec82a329025e
+I
+app/dashboard/loading.tsx,9/b/9b0b11127ac72cedde729134cfbfcad164749f04
+Q
+!app/dashboard/(overview)/page.tsx,8/6/8691e0a86d8dd4ae5599e1b8efd6999e5bc852c3
+I
+app/ui/invoices/table.tsx,2/5/25aa4fe7aa2c7b038541b5b0a0f4a7296ff8f9d2
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8/8/88a9255124c95bdc913197c120a8d560edc59c8e
+T
+$app/dashboard/(overview)/loading.tsx,1/c/1c25938ff5ddec013e7e76950ab5dd9b76f69fd1
+A
+package-lock.json,f/a/fa288d1472d29beccb489a676f68739ad365fc47
+S
+#.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
